@@ -1,0 +1,8 @@
+#myImage {
+  width: 300px;
+  height: 200px;
+}
+
+#myImage.bordered {
+  border: 2px solid red;
+}

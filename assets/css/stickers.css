@@ -1,0 +1,11 @@
+.sticker {
+    display: inline-block;
+    margin: 50px;
+    text-align: center;
+    width: 100px;
+    height: auto;
+}
+
+input[type="number"] {
+    width: 50px;
+}
